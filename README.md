@@ -6,3 +6,5 @@ There are two people, one of them is called Bob and other is called Joe. They ar
 D-Livr would be an automated car that will start driving towards the direction of a clapping sound. It will start going towards the direction until it senses there is something in front of it, then it will stop going forward in order to avoid bumping into it. It will be a fun and easy way for people to deliver things inside a small space. The input would be the sound of a clapping while the output will be the driving towards the clapping sound while blinking its lights.
 
 The hardest part was trying to get the code to work. Getting the distance sensor to work with the motors wasn’t as hard compared to trying to get the sound sensors to work with the motors. It might have been because of how close both sound sensors were to each other, and definitely the code. It is hard to get it to try and figure out which sensor of the two is picking up a stronger sound. Also the code overall seems to have trouble looping the sound sensors commands and the distance sensors commands together.
+
+[blob:https%3A//mail.google.com/748c67be-e31e-4a77-be38-9dc7b4d36207]
