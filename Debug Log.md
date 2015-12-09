@@ -3,6 +3,7 @@
 3.	It was probably because of how I had my wires wired that was causing it to read different from one motor to the other. By changing the wires, it would be easier then changing the code.
 4.	I can test it just by simply plugging in my code for it go forward, then I observe how it is. 
 5.	It is now wired correctly so both motors go the way I want it to.
+
 //----------------------------------------------------------------
 
 1.	I wanted the car to keep going forward until it detects something in front of it within x distance. Then it will turn and then go towards another direction. 
@@ -13,6 +14,7 @@
 6.	I will need a servo so it can turn repeatedly and detect a wider range of area. 
 7.	I can test it by placing it on the floor and letting it run around the room.
 8.	I couldn’t set up a servo at this point.
+
 //----------------------------------------------------------------
 
 1.	I want the motors to do a set of commands based on which sound detector picks up the clapping sound.
