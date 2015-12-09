@@ -4,6 +4,7 @@
 4.	I can test it just by simply plugging in my code for it go forward, then I observe how it is. 
 5.	It is now wired correctly so both motors go the way I want it to.
 
+
 1.	I wanted the car to keep going forward until it detects something in front of it within x distance. Then it will turn and then go towards another direction. 
 2.	The car wouldn’t move.
 3.	I will need to get the code to print, therefore I can test and set its distance limit for different commands. 
@@ -12,6 +13,7 @@
 6.	I will need a servo so it can turn repeatedly and detect a wider range of area. 
 7.	I can test it by placing it on the floor and letting it run around the room.
 8.	I couldn’t set up a servo at this point.
+
 
 1.	I want the motors to do a set of commands based on which sound detector picks up the clapping sound.
 2.	The sound detectors was receiving the loud sound, but the code wasn’t doing any actions from my back sound detector.
