@@ -10,3 +10,10 @@ The hardest part was trying to get the code to work. Getting the distance sensor
 [process photo](https://scontent.fsjc1-1.fna.fbcdn.net/hphotos-xfl1/v/t34.0-12/11998753_10154095950694026_1430846473_n.jpg?oh=82382794472e27ad868be674c6f3fb24&oe=566AB627)
 
 [final product](https://scontent.fsjc1-1.fna.fbcdn.net/hphotos-xta1/v/t34.0-12/12351168_10154095950699026_1438553303_n.jpg?oh=1ae3e5554d7c3fa24d5f135f63f7a046&oe=566AB4E3)
+
+
+References:
+[workshopweekend](http://workshopweekend.net/arduino/projects/remote_control_cardboard)
+[henrysbench](http://henrysbench.capnfatz.com/henrys-bench/arduino-sound-detection-sensor-tutorial-and-user-manual/)
+[instructables](http://www.instructables.com/id/Simple-Arduino-and-HC-SR04-Example/?ALLSTEPS)
+[letsmakerobots](http://letsmakerobots.com/node/40502)
