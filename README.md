@@ -7,6 +7,11 @@ D-Livr would be an automated car that will start driving towards the direction o
 
 The hardest part was trying to get the code to work. Getting the distance sensor to work with the motors wasn’t as hard compared to trying to get the sound sensors to work with the motors. It might have been because of how close both sound sensors were to each other, and definitely the code. It is hard to get it to try and figure out which sensor of the two is picking up a stronger sound. Also the code overall seems to have trouble looping the sound sensors commands and the distance sensors commands together. Overall, I don't think trying to get the robot to follow the sound of clapping was a very good idea in terms of physics. In a room, the sound detectors will pretty much detect the same levels. Something more ideal would be something like a light sensor.
 
+Video:
+
+[video](https://vimeo.com/148767284)
+
+
 Photos:
 
 [process photo](https://scontent.fsjc1-1.fna.fbcdn.net/hphotos-xfl1/v/t34.0-12/11998753_10154095950694026_1430846473_n.jpg?oh=82382794472e27ad868be674c6f3fb24&oe=566AB627)
